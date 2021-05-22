@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Apercu Pro Bold';
+   font-display: swap;
+   src: url('Apercu Pro Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Apercu Bold';
+   font-display: swap;
+   src: url('Apercu Bold/font.ttf');
+}
